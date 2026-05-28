@@ -64,6 +64,7 @@ Config.Language = {
     [13] = {text = "Incorrect amount of points",},
     [14] = {text = "Points Added for Hex",},
     [15] = {text = "Points Removed from Hex",},
+    [16] = {text = "Time in queue: ",},
 }
 
 -- Random Emoji List
